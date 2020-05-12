@@ -1,0 +1,10 @@
+# python related files
+*.pyc
+venv/
+UbunutuVenv/
+.coverage
+htmlcov/
+coverage.xml
+
+# pycharm
+.idea/
